@@ -32,7 +32,7 @@ The website will consist of three pages:
 
 ### **Home Page**
 
-####*Key Features*
+#### *Key Features*
 
 Landing page will have a Hero image below the website Title and Nav bar. 
 
@@ -42,9 +42,9 @@ Social media links.
 
 Brief summary about the park 
 
-###**Facilities Page**
+### **Facilities Page**
 
-####*Key Features*
+#### *Key Features*
 
 Mamas Place 
 
@@ -56,9 +56,9 @@ Cylch Meithrin Y Parc
 
  
 
-###*Contact us**
+### *Contact us**
 
-####*Key Features*
+#### *Key Features*
 
 Web form to include contact details, reason for enquiry 
 
@@ -130,15 +130,15 @@ Web form to include contact details, reason for enquiry
 
  
 
-####*Home Page 
+#### *Home Page 
 
 ![alt text](Documentation/Wireframes/home_wireframe.png) 
 
-####*Facilities page. 
+#### *Facilities page. 
 
 ![alt text](Documentation/Wireframes/facilities_wireframe.png) 
 
-####*Contact us page. 
+#### *Contact us page. 
 
 ![alt text](Documentation/Wireframes/contact_wireframe.png) 
 
