@@ -56,7 +56,7 @@ Cylch Meithrin Y Parc
 
  
 
-### *Contact us**
+### *Contact us*
 
 #### *Key Features*
 

@@ -11,5 +11,28 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    background-color: #0000ff80;
+}
 
+nav {
+    background-color: #777;
+    overflow: hidden;
+}
+nav a {
+    float: none;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 18px 20px;
+    text-decoration: none;
+    font-size: 17px;
+}
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+
+nav a.active {
+    background-color: #04AA6D;
+    color: white;
 }
