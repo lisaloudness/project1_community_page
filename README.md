@@ -1,4 +1,4 @@
-#**Victoria Park Community** 
+# **Victoria Park Community**
 
 Welcome to Victoria Park Community website.  This website has been developed to provide a comprehensive guide to amenities and events in a public park located in the west of Cardiff.  
 
@@ -8,13 +8,13 @@ Welcome to Victoria Park Community website.  This website has been developed to 
 
  
 
-##**Introduction** 
+## **Introduction**
 
 Main aim of this website is to provide a comprehensive landing site to bring together all the various social media pages in one place so that no user is excluded from information if they are not signed up to a number of different websites. Included will be general information about the park such as amenities,  opening times, location and also timestamped events which will require a calendar.  
 
  
 
-##**UX** 
+## **UX**
 
 Current users will be residents who live in the vicinity of the park. 
 
@@ -26,13 +26,13 @@ New users will be potential business users to the park.
 
  
 
-##**Website Design** 
+## **Website Design**
 
 The website will consist of three pages: 
 
-###**Home Page** 
+### **Home Page**
 
-####*Key Features* 
+####*Key Features*
 
 Landing page will have a Hero image below the website Title and Nav bar. 
 
@@ -42,9 +42,9 @@ Social media links.
 
 Brief summary about the park 
 
-###**Facilities Page** 
+###**Facilities Page**
 
-####*Key Features* 
+####*Key Features*
 
 Mamas Place 
 
@@ -56,9 +56,9 @@ Cylch Meithrin Y Parc
 
  
 
-###*Contact us** 
+###*Contact us**
 
-####*Key Features* 
+####*Key Features*
 
 Web form to include contact details, reason for enquiry 
 
@@ -66,13 +66,13 @@ Web form to include contact details, reason for enquiry
 
  
 
-## Typography 
+## Typography
 
  
 
  
 
-## Color scheme 
+## Color scheme
 
  
 
@@ -82,7 +82,7 @@ Web form to include contact details, reason for enquiry
 
 ### Nav Bar 
 
-###Hero Image 
+### Hero Image
 
 ### Footer 
 
